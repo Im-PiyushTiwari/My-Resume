@@ -110,7 +110,7 @@ PHP • HTML • CSS • MySQL
 
 # 📄 Resume
 
-📥 **[Download Resume](./Resume.pdf)**
+📥 **[Download Resume](./My-Resume.pdf)**
 
 ---
 
